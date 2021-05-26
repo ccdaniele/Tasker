@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tasker034d2b54": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
